@@ -1,0 +1,48 @@
+body{
+margin:0px;
+padding:0px;
+background-image:url("bd 2...jpg");
+background-size:cover;
+}
+.a{
+text-decoration:none;
+color:white;
+}
+.hem{
+height:20%;
+width:100%;
+margin:auto;
+margin-top:1%;
+margin-left:1%;
+padding:5px;
+}
+.hi{
+	margin-left:5%;
+margin-top:5%;
+float:left;
+}
+h1{
+o	text-align: center;
+	margin-top: 10px;
+}
+.ya{
+		background-color:lightblue;
+		margin-top:4%;
+		margin-left:1%;
+		margin-right:5%;
+		width:98%;
+		height:auto;
+		float:left;
+		border:solid 6px lightblue;
+		border-radius:10px 0px 10px 0px;
+		text-align:justify;
+		box-shadow:0 5px 5px blue;
+	}
+	.d{
+	width:100%;
+	height:15%;
+	margin-top:3%;
+	padding-bottom:1%;
+	background-color:black;
+	float:left;
+}

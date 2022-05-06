@@ -1,0 +1,29 @@
+body{
+margin:0px;
+padding:0px;
+background-image:url("Cv.jpg");
+background-size:cover;
+}
+.hem{
+height:20%;
+width:100%;
+margin:auto;
+margin-top:1%;
+margin-left:7px%;
+padding:5px;
+}
+#foto_profil:hover{
+       		transform: scale(1.5);
+       }
+
+       td{
+       	padding: 10px;
+       }
+
+       i:hover{
+       	background-color: lightgoldenrodyellow;
+       }
+
+       table th{
+       	background-color: orangered;
+       }
